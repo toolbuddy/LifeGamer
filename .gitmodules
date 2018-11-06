@@ -1,0 +1,6 @@
+[submodule "achievement/pd2-royale/LifeGamer-Render"]
+	path = achievement/pd2-royale/LifeGamer-Render
+	url = https://github.com/pd2-ncku/LifeGamer-Render.git
+[submodule "achievement/pd2-royale/LifeGamer-Battle"]
+	path = achievement/pd2-royale/LifeGamer-Battle
+	url = https://github.com/pd2-ncku/LifeGamer-Battle.git
